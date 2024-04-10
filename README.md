@@ -1,2 +1,2 @@
 # js_calculator
-basic Javascript Calculator to test my JS skills.
+Basic Javascript calculator to test my JS skills.
